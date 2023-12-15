@@ -6,7 +6,7 @@ BSD Türkiye Topluluğu'na yönelik geri bildirimleri buradan iletebilirsiniz. �
 
 BSD 3-Clause License
 
-Copyright (c) 2023 BSD Türkiye Topluluğu Yazarları
+Copyright (c) 2023-2024 BSD Türkiye Topluluğu Yazarları
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
